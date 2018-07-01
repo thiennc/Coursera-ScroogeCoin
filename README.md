@@ -1,0 +1,2 @@
+# ScroogeCoin
+ScroogeCoin Java
