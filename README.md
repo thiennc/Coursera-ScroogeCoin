@@ -1,9 +1,8 @@
-# Coursera-Cryptocurrency: ScroogeCoin
-Assignments from the Coursera course "Bitcoin and Cryptocurrency Technologies"
-Language: Java
+# ScroogeCoin
+Assignments from the **Coursera course "Bitcoin and Cryptocurrency Technologies"**
 
-Implement file TxHandler.java
-
+You will be responsible for creating a file called **TxHandler.java** that implements the following API:
+```java
 public class TxHandler {
 
   /** Creates a public ledger whose current UTXOPool 
@@ -32,3 +31,4 @@ public class TxHandler {
   public Transaction[] handleTxs(Transaction[] possibleTxs);
 
 }
+```
